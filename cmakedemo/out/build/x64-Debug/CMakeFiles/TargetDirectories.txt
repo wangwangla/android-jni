@@ -1,0 +1,5 @@
+E:/lean/android-jni/cmakedemo/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/lean/android-jni/cmakedemo/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/lean/android-jni/cmakedemo/out/build/x64-Debug/cmakedemo/CMakeFiles/cmakedemo.dir
+E:/lean/android-jni/cmakedemo/out/build/x64-Debug/cmakedemo/CMakeFiles/edit_cache.dir
+E:/lean/android-jni/cmakedemo/out/build/x64-Debug/cmakedemo/CMakeFiles/rebuild_cache.dir

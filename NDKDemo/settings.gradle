@@ -1,3 +1,0 @@
-include ':javaCallC'
-include ':app'
-rootProject.name = "NDKDemo"
