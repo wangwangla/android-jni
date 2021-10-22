@@ -73,15 +73,17 @@ JNIEXPORT jint JNICALL JNI_OnLoad(JavaVM *vm, void *reserved){
 
 
 void* threadM(void *args){
-//    JNIEnv *env;
-//    vm1->GetEnv((void**)env, JNI_VERSION_1_6);
-    int xx = vm1->AttachCurrentThread(&encz, NULL);
+    JNIEnv *jniEnv;
+    vm1->AttachCurrentThread(&jniEnv, NULL);
+    //    使用c++的方式创建字符串
     //    使用c++的方式创建字符串
     std::string clazzName = "com/example/ccalljava/People";
 //  得到class
-    jclass jscc = encz->FindClass(clazzName.c_str());
+    jclass jscc = jniEnv->FindClass(clazzName.c_str());
 //  得到构造方法
-    jmethodID initMa = encz->GetMethodID(jscc,"<init>","()V");
+    jmethodID initMa = jniEnv->GetMethodID(jscc,"<init>","()V");
+
+
 //  根据构造 方法创建对象
 //    jobject pInstance = env->NewObject(jscc,initMa);
 //////  我们得到里面的方法
@@ -99,4 +101,31 @@ JNIEXPORT void JNICALL
 Java_com_example_ccalljava_MainActivity_threadDemo(JNIEnv *env, jobject thiz) {
     pthread_t pid;
     pthread_create(&pid, 0, threadM, 0);
+}
+
+
+
+void* three(void* args){
+//    读取数据包
+    jobject people = static_cast<jobject>(args);
+    JNIEnv *jniEnv;
+
+    vm1->AttachCurrentThread(&jniEnv, NULL);
+
+
+    jclass jscc = jniEnv->GetObjectClass(people);
+    jmethodID xx = jniEnv->GetMethodID(jscc,"setAge","(I)V");
+    jniEnv->CallVoidMethod(people,xx,1);
+
+    return 0;
+}
+
+extern "C"
+JNIEXPORT void JNICALL
+Java_com_example_ccalljava_MainActivity_threadDemoInstance(JNIEnv *env, jobject thiz,
+                                                           jobject people) {
+//    env->GetJavaVM(&vm1);
+    pthread_t  pid;
+    jobject p = env->NewGlobalRef(people);
+    pthread_create(&pid,0,three,p);
 }

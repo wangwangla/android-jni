@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         tv.setText(stringFromJNI());
 //        testStatic();
         threadDemo();
+//        People p =  new People();
+//        threadDemoInstance(p);
     }
 
 
@@ -58,4 +60,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     native void threadDemo();
+
+    native void threadDemoInstance(People people);
 }
