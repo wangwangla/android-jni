@@ -17,19 +17,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView tv = findViewById(R.id.sample_text);
         tv.setText(stringFromJNI());
-
-        int i=0;
-        if(i){
-
-        }
-        if(i==0){
-
-        }
-
-        float f = 10.0F;
-        if (f == 10){
-
-        }
     }
     public native String stringFromJNI();
 }

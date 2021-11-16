@@ -1,12 +1,19 @@
 #include<stdio.h>
 
 void main(){
-	int arr[] = {100,200,300,400};
-	int* p = arr;
-	*(p +1) = 10;
-	for (int i = 0; i < 4; i++) {
-		printf("%d \n",arr[i]);
+	//int arr[] = {100,200,300,400};
+	//int* p = arr;
+	//*(p +1) = 10;
+	//for (int i = 0; i < 4; i++) {
+	//	printf("%d \n",arr[i]);
+	//}
+	//int (*p)[10];//每次跨过10*4
+	int i = 0;
+	while (i <= 10) {
+		i++;
+		if (i == 5) {
+			continue;
+		}
+		printf("%d",i);
 	}
-
-	int (*p)[10];//每次跨过10*4
 }

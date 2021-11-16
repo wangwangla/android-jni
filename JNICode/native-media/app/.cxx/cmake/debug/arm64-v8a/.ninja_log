@@ -1,0 +1,4 @@
+# ninja log v5
+2	135	657285339	CMakeFiles/native-media-jni.dir/android_fopen.c.o	7d213122ba1154bc
+11	222	657285339	CMakeFiles/native-media-jni.dir/native-media-jni.c.o	c4c8475ba448028a
+223	378	657285339	E:/lean/android-jni/JNICode/native-media/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-media-jni.so	75daf283e65b4601

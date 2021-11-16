@@ -1,0 +1,58 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: arm64-v8a",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON E:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json due to:",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "  - E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027E:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\arm64-v8a\u0027 but regenerating project",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : D:\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HE:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-BE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : D:\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HE:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-BE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process D:\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe with arguments {-HE:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp -DCMAKE_FIND_ROOT_PATH\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab -DCMAKE_BUILD_TYPE\u003dDebug -DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake -DANDROID_ABI\u003darm64-v8a -DANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670 -DANDROID_PLATFORM\u003dandroid-16 -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a -DCMAKE_ANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670 -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a -DCMAKE_MAKE_PROGRAM\u003dD:\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -DCMAKE_SYSTEM_NAME\u003dAndroid -DCMAKE_SYSTEM_VERSION\u003d16 -BE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\arm64-v8a -GNinja}\n\nCMake Error: The source directory \"E:/lean/android-jni/JNICode/native-media/app/src/main/cpp\" does not exist.\nSpecify --help for usage, or press the help button on the CMake GUI.\n",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: x86",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON E:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json due to:",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "  - E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027E:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\x86\u0027 but regenerating project",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : D:\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HE:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\prefab\\x86\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-BE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\x86\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : D:\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HE:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\prefab\\x86\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003dD:\\Android\\Sdk\\ndk\\22.1.7171670\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dE:\\lean\\android-jni\\JNICode\\native-media\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-BE:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\x86\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file E:\\lean\\android-jni\\JNICode\\native-media\\app\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

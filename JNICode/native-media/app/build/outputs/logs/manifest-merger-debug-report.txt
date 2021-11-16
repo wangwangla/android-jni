@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:4:3-52
+	android:glEsVersion
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:4:17-49
+uses-permission#android.permission.INTERNET
+ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:6:3-81
+	android:name
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:6:20-62
+application
+ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:7:3-18:17
+	android:label
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:10:16-48
+	android:fullBackupContent
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:8:16-49
+	android:icon
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:9:16-50
+	android:allowBackup
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:7:16-43
+activity#com.example.nativemedia.NativeMedia
+ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:11:5-17:16
+	android:label
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:12:15-47
+	android:name
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:11:15-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:13:7-16:23
+action#android.intent.action.MAIN
+ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml:15:19-66
+uses-sdk
+INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+		ADDED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lean\android-jni\JNICode\native-media\app\src\main\AndroidManifest.xml

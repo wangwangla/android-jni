@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/lean/android-jni/JNICode/native-media/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "D:\\Android\\Sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_media_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -UNDEBUG -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-media-jni.dir\\android_fopen.c.o -c E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\android_fopen.c",
+  "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\android_fopen.c"
+},
+{
+  "directory": "E:/lean/android-jni/JNICode/native-media/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "D:\\Android\\Sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_media_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -UNDEBUG -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-media-jni.dir\\native-media-jni.c.o -c E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\native-media-jni.c",
+  "file": "E:\\lean\\android-jni\\JNICode\\native-media\\app\\src\\main\\cpp\\native-media-jni.c"
+}
+]

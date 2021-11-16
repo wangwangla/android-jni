@@ -1,0 +1,10 @@
+com/example/nativemedia/BuildConfig.java
+ com.example.nativemedia.BuildConfig
+com/example/nativemedia/NativeMedia.java
+ com.example.nativemedia.NativeMedia
+ com.example.nativemedia.NativeMedia$1
+ com.example.nativemedia.NativeMedia$2
+ com.example.nativemedia.NativeMedia$3
+ com.example.nativemedia.NativeMedia$4
+ com.example.nativemedia.NativeMedia$SurfaceHolderVideoSink
+ com.example.nativemedia.NativeMedia$VideoSink
