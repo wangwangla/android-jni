@@ -32,8 +32,13 @@ int main(){
 	int tat[] = {
 		1,1,2,4
 	}; 
-	printf("%p\n",tat+1);
+	printf("%p\n",&tat);
 	printf("%d\n",*tat);
+	//指针+1就到了下一个位置 
+	printf("%d\n",*tat+1);
+	
+	
+	
 
 	return 0;
 } 
